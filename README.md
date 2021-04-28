@@ -11,10 +11,6 @@
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
 
-### In progress
-![](https://img.shields.io/badge/Cybersecurity-things-0078D6?style=flat-square)\
-![](https://img.shields.io/badge/CompTIA-Security+-e12925?style=flat-square)
-
 ### About me
 Just me, from the Netherlands.
 
