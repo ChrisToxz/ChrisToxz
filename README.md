@@ -1,7 +1,5 @@
 
 # Hey you! 🌊
-I'm a developer with a lot of interest in cybersec.\
-Experience with various technical stuff, such as programming languages, operating systems, microcontrollers, domotica & 3D printing.
 
 ### Main Skills
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
