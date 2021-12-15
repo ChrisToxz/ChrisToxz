@@ -11,7 +11,6 @@
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
 ![](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=Proxmox&logoColor=white)
-
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### About me
@@ -102,4 +101,4 @@ Just me, from the Netherlands.
 ![](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)
 <hr>
 
-Last update: 01-2021
+Last update: 12-2021
