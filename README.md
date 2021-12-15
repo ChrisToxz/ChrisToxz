@@ -13,9 +13,6 @@
 ![](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=Proxmox&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### About me
-Just me, from the Netherlands.
-
 ### Things I use, love and/or work with
 <hr>
 
@@ -100,5 +97,8 @@ Just me, from the Netherlands.
 ![](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![](https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)
 <hr>
+
+### About me
+Just me, from the Netherlands.
 
 Last update: 12-2021
