@@ -10,6 +10,9 @@
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)\
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
+![](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=Proxmox&logoColor=white)
+
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### About me
 Just me, from the Netherlands.
@@ -62,7 +65,6 @@ Just me, from the Netherlands.
 ![](https://img.shields.io/badge/-OVH-123F6D?style=flat-square&logo=OVH&logoColor=white)
 ![](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white)
 ![](https://img.shields.io/badge/-Atlassian-0052CC?style=flat-square&logo=Atlassian&logoColor=white)
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat-square&logo=Home%20Assistant&logoColor=white)
 ![](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)
 ![](https://img.shields.io/badge/-Tasmota-1FA3EC?style=flat-square&logo=Tasmota&logoColor=white)
