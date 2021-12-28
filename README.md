@@ -121,12 +121,6 @@
 ![](https://img.shields.io/badge/-Datagrip-000000?style=flat-square&logo=datagrip&logoColor=white)
 ![](https://img.shields.io/badge/-ESPHome-000000?style=flat-square&logo=esphome&logoColor=white)
 
-
-
-
-![](https://img.shields.io/badge/-Adafruit-000000?style=flat-square&logo=Adafruit&logoColor=white)
-![](https://img.shields.io/badge/-Adafruit-000000?style=flat-square&logo=Adafruit&logoColor=white)
-![](https://img.shields.io/badge/-Adafruit-000000?style=flat-square&logo=Adafruit&logoColor=white)
 <hr>
 
 ### About me
