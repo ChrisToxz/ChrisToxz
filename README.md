@@ -1,7 +1,7 @@
 
 # Hey you! 🌊
 
-Currently working on a (opensource) selfhosted video streaming platform.
+⏯Currently working on a (opensource, to be released) selfhosted video streaming platform. (Looking for contributors)
 
 ### Main Skills
 ![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
@@ -131,4 +131,4 @@ Currently working on a (opensource) selfhosted video streaming platform.
 ### About me
 Just me, from the Netherlands.
 
-Last update: 25012022
+Last update: 27012022
