@@ -1,5 +1,6 @@
 
-# Hey you!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=30&duration=2500&pause=1000&color=0F9F00&vCenter=true&width=550&lines=Hey+you!;I+am+currently+working+on+Slipstream!)](https://github.com/ChrisToxz/Slipstream-core)
+<hr>
 
 ### Main Skills
 ![](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
