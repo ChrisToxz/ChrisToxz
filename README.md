@@ -6,8 +6,10 @@
 ![](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/-Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
-![](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Hybridly-f0abfc?&logoColor=fff&style=flat)\
 ![](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=white)\
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
