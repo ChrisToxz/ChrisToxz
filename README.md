@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)\
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)\
 ![](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
-![](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 ![](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=Debian&logoColor=white)
 ![](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
