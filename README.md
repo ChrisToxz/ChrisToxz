@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/-Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
 ![](https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=fff&style=flat)
 ![](https://img.shields.io/badge/Hybridly-f0abfc?&logoColor=fff&style=flat)\
+![](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=white)\
@@ -16,6 +17,7 @@
 ![](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)\
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)\
+![](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white)
 ![](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=Debian&logoColor=white)
 ![](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white)
