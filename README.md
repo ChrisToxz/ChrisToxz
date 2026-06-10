@@ -1,5 +1,5 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=30&duration=2500&pause=1000&color=0F9F00&vCenter=true&width=550&lines=Hey+you!;I+am+currently+working+on+Slipstream!)](https://github.com/ChrisToxz/Slipstream-core)
+\
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&size=40&pause=100&width=435&lines=Hey+you;Whats+up%3F)](https://git.io/typing-svg)
 <hr>
 
 ### Main Skills
